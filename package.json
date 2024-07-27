@@ -1,0 +1,19 @@
+{
+  "name": "p2p-auction-solution",
+  "version": "1.0.0",
+  "description": "A simplified P2P auction solution using Hyperswarm RPC and Hypercores.",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node main"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hyperswarm/rpc": "^3.3.2",
+    "crypto": "^1.0.1",
+    "hyperbee": "^2.20.0",
+    "hypercore": "^10.37.13",
+    "hyperdht": "^6.16.0",
+    "hyperswarm": "^4.8.1"
+  }
+}
