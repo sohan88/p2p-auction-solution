@@ -77,7 +77,6 @@ Example: `placeBid 1234567890abcdef1234567890abcdef1234567890abcdef 600`
 * dhtService.js: Sets up the DHT.
 
 ## Known Issues 
-- Auctions are not persisted across restarts.
 - Close Auction action is not working at accurate. Need some debugging
 - Need to add Unit Tests
 - DB files are locked on restart. Need to fix this issue
